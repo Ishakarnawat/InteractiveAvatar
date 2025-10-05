@@ -192,8 +192,12 @@ npm run dev
 ## 👉 Now open [http://localhost:5173/](http://localhost:5173/) in your browser.
 
 ## 📸 Demo
-🎥 [👉 Watch Demo Video](https://github.com/user-attachments/assets/ae8b509c-88e1-474c-b5c5-36b7341f1ad7)
-(https://github.com/user-attachments/assets/ae8b509c-88e1-474c-b5c5-36b7341f1ad7?)
+
+
+
+https://github.com/user-attachments/assets/30315f6b-5938-4297-a715-5dc6ea64fd08
+
+
 
 <video width="640" height="360" controls>
   <source src="https://github.com/user-attachments/assets/ae8b509c-88e1-474c-b5c5-36b7341f1ad7?" type="video/mp4">
