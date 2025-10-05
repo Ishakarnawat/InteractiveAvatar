@@ -193,9 +193,9 @@ npm run dev
 
 ## 📸 Demo
 🎥 [👉 Watch Demo Video](https://github.com/user-attachments/assets/ae8b509c-88e1-474c-b5c5-36b7341f1ad7)
-## https://github.com/user-attachments/assets/ae8b509c-88e1-474c-b5c5-36b7341f1ad7?
+
 <video width="640" height="360" controls>
-  <source src="resources/demo_comp.mp4" type="video/mp4">
+  <source src="https://github.com/user-attachments/assets/ae8b509c-88e1-474c-b5c5-36b7341f1ad7?" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
