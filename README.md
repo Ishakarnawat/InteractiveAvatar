@@ -25,6 +25,13 @@ Team Members:
 
 ---
 
+## 📸 Demo
+
+
+
+https://github.com/user-attachments/assets/30315f6b-5938-4297-a715-5dc6ea64fd08
+
+
 ## 🚩 Problem Statement
 
 📚 Online learning platforms are powerful, but they still lack human-like engagement and real-time interaction.  
@@ -191,11 +198,6 @@ npm run dev
 
 ## 👉 Now open [http://localhost:5173/](http://localhost:5173/) in your browser.
 
-## 📸 Demo
-
-
-
-https://github.com/user-attachments/assets/30315f6b-5938-4297-a715-5dc6ea64fd08
 
 
 
