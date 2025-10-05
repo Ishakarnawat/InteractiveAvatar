@@ -6,7 +6,7 @@
 ## 👥 Team Information
 
 
-https://github.com/user-attachments/assets/ae8b509c-88e1-474c-b5c5-36b7341f1ad7
+
 
 
 Team Name: Teachnify 
@@ -192,8 +192,8 @@ npm run dev
 ## 👉 Now open [http://localhost:5173/](http://localhost:5173/) in your browser.
 
 ## 📸 Demo
-🎥 [👉 Watch Demo Video]([resources/demo_compressed.mp4](https://github.com/user-attachments/assets/ae8b509c-88e1-474c-b5c5-36b7341f1ad7))
-
+🎥 [👉 Watch Demo Video](https://github.com/user-attachments/assets/ae8b509c-88e1-474c-b5c5-36b7341f1ad7)
+## https://github.com/user-attachments/assets/ae8b509c-88e1-474c-b5c5-36b7341f1ad7?
 <video width="640" height="360" controls>
   <source src="resources/demo_comp.mp4" type="video/mp4">
   Your browser does not support the video tag.
