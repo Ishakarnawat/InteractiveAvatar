@@ -1,4 +1,4 @@
-# 🧑‍💻 Digital Human – AI-Powered Interactive Avatar Teacher
+# 🧑‍💻 Avatar Tutor – AI-Powered Interactive Avatar Teacher
 
 > 🎓 A hackathon project that brings **human-like interactivity** to online learning with a talking, expressive AI avatar.
 ---
@@ -11,7 +11,7 @@
 
 Team Name: Teachnify 
 
-Project Name: Digital Human – AI-Powered Interactive Teaching Assistant
+Project Name: Avatar Tutor – AI-Powered Interactive Teaching Assistant
 
 
 Team ID: ET13  
@@ -41,7 +41,7 @@ Students often face these challenges:
 
 ## 💡 Project Abstract
 
-Digital Human is an AI-powered interactive teaching assistant that delivers 24/7 personalized learning through a lifelike 3D avatar.  
+Avatar Tutor is an AI-powered interactive teaching assistant that delivers 24/7 personalized learning through a lifelike 3D avatar.  
 It listens, understands, and responds just like a human teacher — combining voice, expressions, and gestures for emotionally intelligent learning.
 
 Highlights:
@@ -58,7 +58,7 @@ Highlights:
 
 ## 💡 Our Solution
 
-We built Digital Human – a system that fuses cutting-edge Generative AI, **speech synthesis, and **3D animation to create an emotionally aware teaching experience.
+We built Avatar Tutor – a system that fuses cutting-edge Generative AI, **speech synthesis, and **3D animation to create an emotionally aware teaching experience.
 
 👩‍🏫 Think of it as a virtual teacher — one that listens, speaks, smiles, and provides adaptive guidance 24/7.
 
@@ -208,7 +208,7 @@ https://github.com/user-attachments/assets/30315f6b-5938-4297-a715-5dc6ea64fd08
 
 ## 📚 References
 
-- 📖 [Monadical – Build a Digital Human](https://monadical.com/posts/build-a-digital-human-with-large-language-models.html)
+- 📖 [Monadical – Build a Avatar Tutor](https://monadical.com/posts/build-a-digital-human-with-large-language-models.html)
 - 👄 [Rhubarb Lip-Sync](https://github.com/DanielSWolf/rhubarb-lip-sync)
 - 🧑‍🎨 [Ready Player Me Docs](https://docs.readyplayer.me/ready-player-me/api-reference/avatars/morph-targets)
 - 🎭 [Mixamo Animations](https://www.mixamo.com/)
