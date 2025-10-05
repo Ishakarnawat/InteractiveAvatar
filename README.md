@@ -188,8 +188,12 @@ npm run dev
 ## 👉 Now open [http://localhost:5173/](http://localhost:5173/) in your browser.
 
 ## 📸 Demo
+🎥 [👉 Watch Demo Video](resources/demo_compressed.mp4)
 
-🎥 [👉 Watch Demo Video](resources/Demo.mp4)
+<video width="640" height="360" controls>
+  <source src="resources/demo_comp.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ---
 
